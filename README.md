@@ -5,5 +5,3 @@ I’m interested in ecology simulation, science computing tools, mathematics puz
 I’m currently learning mathematical modeling for population/community ecology and epidemiology.
 
 I'm looking to collaborate on STEM outreach projects (open-source software, curriculum development, etc).
-
-Reach me at puzzle0pieces@gmail.com.
